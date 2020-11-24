@@ -1,0 +1,26 @@
+
+
+.img-thumbnail img{
+  width: 100%;
+}
+
+.img-thumbnail{
+  padding: 0;
+}
+
+.img-thumbnail .caption-full{
+  padding:9px;
+}
+
+#delete-form{
+  display: inline;
+}
+
+#map {
+    height: 300px;
+    width: 100%;
+}
+
+.img-fluid{
+  height: 250px;
+}
